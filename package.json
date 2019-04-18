@@ -1,0 +1,12 @@
+{
+  "name": "cloud-doc",
+  "version": "1.0.0",
+  "description": "> cloud doc",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs --port 8000"
+  },
+  "author": "zyy"
+}
